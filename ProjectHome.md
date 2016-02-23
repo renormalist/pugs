@@ -1,0 +1,1 @@
+Pugs is an umbrella project for Perl 6 implementation, documentation and testing efforts.
